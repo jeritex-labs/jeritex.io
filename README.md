@@ -1,2 +1,3 @@
-# jeritex.com
-Jeritex.com public documents
+## ToC
+
+* [Whitepaper](WHITEPAPER.pdf)
